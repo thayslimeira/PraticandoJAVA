@@ -1,5 +1,7 @@
 package Exercitando;
-
+	
+/*Escreva uma classe para representar uma lâmpada. Desenvolva métodos para ligar, desligar a lâmpada.*/
+	
 public class Lampada {
 
 	private boolean estado; //LIGADA OU DESLIGADA
